@@ -1,4 +1,4 @@
-import './Question.dart';
+import './question.dart';
 
 class Quiz {
   List<Question> _questions;
